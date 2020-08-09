@@ -2,9 +2,7 @@
 
 My name is Matt Worthington. Currently, I am the Manager of Data & Analytics at Texas 2036, where I lead our work around a series of data products that we make available to the public. One more  In addition, I serve as a commission member for the City of Austin’s Early Childhood Council.
 
-Prior to now, I was the Director of Analytics & Insight at the United Way for Greater Austin while I finished public policy studies at the LBJ School of Public Affairs. Prior to studying at LBJ, I worked in education for several years with KIPP Austin Public Schools and at DC Public Schools in Washington, DC. At KIPP, I served as the Digital Learning Coordinator for the Austin region. In DC, I taught at MacFarland Middle School in DCPS where I served as a Literacy Intervention Specialist, Special Education Teacher, and IT Coordinator. When I moved to the DCPS Central Office, I worked as the Manager of Technology Strategy in the Office of the Chief Operating Officer.
-
-Having grown up in poverty and fatherless during my adolescence, my policy interests explore the intersections of poverty, public health, public education, and generally making society more equitable. Outside of work, I love hanging with my family, our friends, our church community, getting outdoors, cooking, reading, podcasts, and the San Antonio Spurs.
+In previous lives, I was a Literacy Intervention Specialist, Special Education Teacher, Digital Learning Expert, and IT Coordinator in various public school and central office administration settings. Having grown up in poverty and fatherless during my adolescence, my policy interests explore the intersections of poverty, public health, public education, and generally making society more equitable. Outside of work, I love hanging with my family, our friends, our church community, getting outdoors, cooking, reading, podcasts, and the San Antonio Spurs.
 
 ### Quick Facts 📋
 
