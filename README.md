@@ -6,7 +6,7 @@ Prior to now, I was the Director of Analytics & Insight at the United Way for Gr
 
 Having grown up in poverty and fatherless during adolescence, my policy interests explore the intersections of poverty, public health, public education, and generally making society more equitable. Outside of work, I love hanging with my family, our friends, our church community, getting outdoors, cooking, reading, podcasts, and the San Antonio Spurs.
 
-### Quick Facts 👋
+### Quick Facts 📋
 
 - 🔭 **I’m currently working on** a COVID-19 Tracker + Database for [Texas 2036](https://github.com/texas-2036). The tracker lives [here](https://texas2036.shinyapps.io/covid_tracker/) and [the code](https://github.com/texas-2036/covid_tracker) for this resource lives here. Texas Monthly was kind of enough to do a brief write-up about what value this resource has added to the COVID-19 conversation in Texas.
 - 🌱 **I’m currently learning** more R stuff (always more R stuff), python, javascript essentials, and d3.js.
