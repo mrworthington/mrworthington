@@ -1,8 +1,8 @@
 ## Howdy! 👋
 
-My name is Matt Worthington. Currently, I am the Manager of Data & Analytics at Texas 2036, where I lead our work around a series of data products that we make available to the public. One more  In addition, I serve as a commission member for the City of Austin’s Early Childhood Council.
+My name is Matt Worthington. Currently, I am the Manager of Data & Analytics at Texas 2036, where I lead our work around a series of data products that we make available to the public. In addition, I serve as a commission member for the City of Austin’s Early Childhood Council.
 
-In previous lives, I was a Literacy Intervention Specialist, Special Education Teacher, Digital Learning Expert, and IT Coordinator in various public school and central office administration settings. Having grown up in poverty and fatherless during my adolescence, my policy interests explore the intersections of poverty, public health, public education, and generally making society more equitable. Outside of work, I love hanging with my family, our friends, our church community, getting outdoors, cooking, reading, podcasts, and the San Antonio Spurs.
+In previous lives, I was a Literacy Intervention Specialist, Special Education Teacher, Digital Learning Expert, and IT Coordinator in various public school and central office administration settings. Having grown up in poverty and fatherless, my work often explores the intersections of poverty, public health, public education, and generally making society more equitable. Outside of work, I love hanging with my family, our friends, our church community, getting outdoors, cooking, reading, podcasts, and going to Spurs games in San Antonio.
 
 ## Quick Facts 📋
 
