@@ -1,6 +1,6 @@
 ## Howdy! 👋
 
-My name is Matt Worthington. Currently, I am the Senior Project Manager for Data Intitiatives at the LBJ School of Public Affairds at the University of Texas at Austin. In addition, I serve as a commission member for the City of Austin’s Early Childhood Council.
+My name is Matt Worthington. Currently, I am the Senior Project Manager for Data Intitiatives at the LBJ School of Public Affairs at the University of Texas at Austin. In addition, I serve as a commission member for the City of Austin’s Early Childhood Council.
 
 In previous lives, I was an analytics leader for a couple of nonprofits, a literacy intervention specialist, special education teacher, digital learning expert, and IT Coordinator in various public school and central office administration settings. Having grown up in poverty and fatherless, my work often explores the intersections of poverty, public health, public education, and generally making society more equitable. Outside of work, I love hanging with my family, our friends, our church community, getting outdoors, cooking, reading, podcasts, and going to Spurs games in San Antonio.
 
